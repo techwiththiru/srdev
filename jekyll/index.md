@@ -1,6 +1,6 @@
 #### Thirunarayanan Sowrirajan (Thiru)
 
-_Solutions Architect \| .NET \| Azure \| Modernization \| Microservices \| API \|_
+*Sr. Developer \| .NET \| Azure \| Modernization \| Microservices \| API \|*
 
 [reachtechthiru@gmail.com](mailto:reachtechthiru@gmail.com) \| +1 9729713083 \| [www.linkedin.com/in/techwiththiru](http://www.linkedin.com/in/techwiththiru)
 
@@ -281,7 +281,7 @@ Developed and maintained data access layers using Entity Framework / EF Core, im
 
 *Turner Broadcasting Inc, Atlanta GA - Jan 2017 - Dec 2017*
 
-###### Architected and delivered a vendor-agnostic platform rewrite
+###### Built a vendor-agnostic platform rewrite
 
 - Replaced a third-party solution to ensure long-term sustainability and reduce the risk of vendor deprecation and end of support.
 
