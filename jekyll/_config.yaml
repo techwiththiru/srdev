@@ -1,0 +1,10 @@
+title: "Tech with Thiru"
+description: "Sr. Developer, API Evangelist and Tech Enthusiast"
+theme: jekyll-theme-midnight
+domain: techwiththiru.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://techwiththiru.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: /srdev/jekyll      # place folder name if the site is served in a subfolder
+permalink: pretty
+google_analytics: 
+assets:
+  digest: false
